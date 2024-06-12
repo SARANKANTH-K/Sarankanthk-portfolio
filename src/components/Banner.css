@@ -1,0 +1,37 @@
+.button {
+    background-color: #6200ea;
+    color: white;
+    padding: 10px 12px;
+    margin-top: 50px;
+    margin-left: 200px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button:hover {
+    background-color: #6d6dc1;
+    transition: 0.3s ease-in-out;
+  }
+  .buttonn {
+    background-color: #6200ea;
+    color: white;
+    padding: 8px 12px;
+    margin-top: 0px;
+    
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .buttonn:hover {
+    background-color: #6d6dc1;
+  }
+
+  .head{
+    margin-bottom: 800px;
+  }

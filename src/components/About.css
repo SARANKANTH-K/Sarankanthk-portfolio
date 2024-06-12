@@ -1,0 +1,140 @@
+.education-list {
+    list-style-type: none; /* Remove default list style */
+    padding: 0; /* Remove default padding */
+    max-width: 600px; /* Set maximum width for the list */
+    margin: 0 auto; /* Center the list */
+    padding: 20px; /* Add padding around the list */
+    border: 1px solid #ddd; /* Add a border around the list */
+    border-radius: 8px; /* Rounded corners */
+    background-color: #f9f9f9; /* Light background color */
+  }
+  
+  .education-item {
+    margin-bottom: 20px; /* Space between items */
+    padding: 15px; /* Padding inside each item */
+    border: 1px solid #ddd; /* Border around each item */
+    border-radius: 5px; /* Rounded corners for each item */
+    background-color: #ffffff; /* White background for each item */
+  }
+  
+  .education-item:last-child {
+    margin-bottom: 0; /* Remove margin from the last item */
+  }
+  
+  .education-year {
+    color: #6200ea; /* Attractive color for the year */
+    font-weight: bold; /* Bold font for the year */
+  }
+  
+  .education-item b {
+    color: #333; /* Dark color for the institution name */
+  }
+  
+  .education-item p {
+    color: #777; /* Dull color for the explanation */
+    margin-top: 5px; /* Space between title and description */
+  }
+    
+  .skill_container {
+    width: 600px; /* Set a fixed small width for the entire container */
+    margin: 0 auto; /* Center the container horizontally if needed */
+  }
+  
+  .skill_bar {
+    margin-bottom: 5px; /* Reduce the margin between bars */
+  }
+  
+  .info {
+    display: flex;
+    color: #f8f9fa;
+    justify-content: space-between;
+    margin-top: 5px; /* Reduce the margin between info and bar */
+    font-size: 10px; /* Reduce the font size */
+  }
+  
+  .bar {
+    background-color: #f8f9fa; /* Light gray background */
+    border-radius: 3px;
+    overflow: hidden;
+    height: 5px; /* Reduce the height */
+    position: relative; /* Set position relative to parent */
+  }
+  
+  .bar span {
+    display: block;
+    height: 100%;
+    border-radius: 3px;
+  }
+  
+  .percentage {
+    position: absolute; /* Set position absolute */
+    top: 50%; /* Align to the middle of the skill bar */
+    right: 5px; /* Adjust to the right */
+    transform: translateY(-50%); /* Center vertically */
+    font-size: 10px; /* Reduce font size */
+  }
+  
+  .html {
+    background-color: #e34c26; /* HTML color */
+  }
+  
+  .css {
+    background-color: #264de4; /* CSS color */
+  }
+  
+  .js {
+    background-color: #f0db4f; /* JavaScript color */
+  }
+  
+  .react {
+    background-color: #61dafb; /* React color */
+  }
+  
+  .sql {
+    background-color: #f29111; /* SQL color */
+  }
+  
+  .git {
+    background-color: #f1502f; /* Git color */
+  }
+  
+  .figma {
+    background-color: #a259ff; /* Figma color */
+  }
+  
+  .internship-list {
+    list-style: none; /* Remove default list style */
+    padding: 0; /* Remove default padding */
+    max-width: 600px; /* Set maximum width for the list */
+    margin: 0 auto; /* Center the list */
+  }
+  
+  .internship-item {
+    margin-bottom: 20px; /* Space between items */
+    padding: 15px; /* Padding inside each item */
+    border: 1px solid #ddd; /* Border around each item */
+    border-radius: 8px; /* Rounded corners */
+    background-color: #f9f9f9; /* Light background color */
+    color: #A9A9A9; /* Dull color for the description */
+  }
+  
+  .internship-year {
+    color: #FF5733; /* Attractive color for the year */
+    font-weight: bold; /* Bold font for the year */
+  }
+  
+  .internship-current {
+    color: #A9A9A9; /* Dull color for the current text */
+  }
+  
+  .internship-title {
+    color: #000000; /* White color for the internship title */
+  }
+  
+  .internship-item b {
+    display: block; /* Make the title a block element */
+    margin-top: 5px; /* Space between year and title */
+    color: #000000; /* Color for the title */
+  }
+  
+  
