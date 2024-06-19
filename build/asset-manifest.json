@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c1c9102.css",
+    "main.js": "/static/js/main.c500f785.js",
+    "static/js/787.576bf1d8.chunk.js": "/static/js/787.576bf1d8.chunk.js",
+    "static/media/06.jpg": "/static/media/06.6c0078edac5ce1894593.jpg",
+    "static/media/img2.jpg": "/static/media/img2.5be3caa15e1394e65e7d.jpg",
+    "static/media/cinephile.png": "/static/media/cinephile.d7dcb19f3072b2889708.png",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/color-sharp2.png": "/static/media/color-sharp2.16f9ebd3bdb020c3367d.png",
+    "static/media/pokedex.png": "/static/media/pokedex.58336e6b0c1fcbb1744c.png",
+    "static/media/img1.jpg": "/static/media/img1.3c956a08595fb54aba5f.jpg",
+    "static/media/Mandala.png": "/static/media/Mandala.f4a65210eea26b4edd35.png",
+    "static/media/Wanda.png": "/static/media/Wanda.2b75b119d5c72009f00a.png",
+    "static/media/img.jpg": "/static/media/img.10f713042b79876a1cd6.jpg",
+    "static/media/Neko.png": "/static/media/Neko.0af79b407b27fcdb41bd.png",
+    "static/media/LaLaLand.png": "/static/media/LaLaLand.6e57c44fc8aa495a04ee.png",
+    "static/media/contact-img.svg": "/static/media/contact-img.62aa99e0f3b968b5d1ce9eb047f34fc7.svg",
+    "static/media/gallery.png": "/static/media/gallery.3972d5bad7a619b089f9.png",
+    "static/media/Emma.png": "/static/media/Emma.b4fe66523c5c9254bdd6.png",
+    "static/media/TBBT.png": "/static/media/TBBT.0881855fd49c0bd84f84.png",
+    "static/media/nav-icon3.svg": "/static/media/nav-icon3.72cef43bc93b04f52e29f022ef720f8b.svg",
+    "static/media/nav-icon2.svg": "/static/media/nav-icon2.97ed8e7eef60d61ca469881dd6f34511.svg",
+    "static/media/link.svg": "/static/media/link.d7e56e3efb8e2593cb2f0d275ad3dbe6.svg",
+    "static/media/nav-icon1.svg": "/static/media/nav-icon1.dff40ae802524d8fc0cbce3f312abe4f.svg",
+    "static/media/code.svg": "/static/media/code.bcfe6d9fbea2de47cc91d49d1affef0e.svg",
+    "index.html": "/index.html",
+    "main.2c1c9102.css.map": "/static/css/main.2c1c9102.css.map",
+    "main.c500f785.js.map": "/static/js/main.c500f785.js.map",
+    "787.576bf1d8.chunk.js.map": "/static/js/787.576bf1d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c1c9102.css",
+    "static/js/main.c500f785.js"
+  ]
+}
