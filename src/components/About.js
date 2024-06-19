@@ -100,7 +100,7 @@ export const About = () => {
                   <h2>About me</h2>
                   <p>
                     {" "}
-                    I'm a third-year Computer Science and Engineering student. I have a passion for coding and problem-solving.
+                    I'm a final-year Computer Science and Engineering student. I have a passion for coding and problem-solving.
                               Currently, I'm focused on expanding my skills through coursework and personal projects. I enjoy exploring new technologies and look forward to applying my knowledge to real-world challenges.
                              Outside of academics, I like engaging with coding communities and contributing to projects.My goal is to continue learning and make a meaningful impact in the field of technology.
                   </p>
