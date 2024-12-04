@@ -89,9 +89,9 @@ export const NavBar = () => {
                 Projects
               </Nav.Link>
               <Nav.Link
-                href="https://drive.google.com/file/d/1at2jU5V5uR4aznuCCnM_i-yL0C7Z6Fz9/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1y3tVoNR2D9LBzVOzsngrBFjHmVb3tDWh/view?usp=drive_link"
                 className={
-                  activeLink === "https://drive.google.com/file/d/1at2jU5V5uR4aznuCCnM_i-yL0C7Z6Fz9/view?usp=drive_link"
+                  activeLink === "https://drive.google.com/file/d/1y3tVoNR2D9LBzVOzsngrBFjHmVb3tDWh/view?usp=drive_link"
                     ? "active navbar-link"
                     : "navbar-link"
                 }
