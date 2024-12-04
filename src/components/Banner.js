@@ -45,7 +45,7 @@ export const Banner = () => {
               </span>
               <Row className="button-row">
         <Col xs="auto">
-          <button className="button"><a href="https://drive.google.com/file/d/1at2jU5V5uR4aznuCCnM_i-yL0C7Z6Fz9/view?usp=drive_link" style={{textDecoration:"none",color:"white"}}>Resume</a></button>
+          <button className="button"><a href="https://drive.google.com/file/d/1y3tVoNR2D9LBzVOzsngrBFjHmVb3tDWh/view?usp=drive_link" style={{textDecoration:"none",color:"white"}}>Resume</a></button>
         </Col>
         <Col xs="auto">
           <button className="buttonn"><a href="#connect" style={{textDecoration:"none",color:"white"}}>Hire me</a></button>
