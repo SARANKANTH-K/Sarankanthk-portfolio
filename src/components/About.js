@@ -135,7 +135,7 @@ export const About = () => {
       <li className="education-item">
         <span className="education-year">2023 current</span><br />
         <b>BE-Computer Science and Engineering, Kongu Engineering College.</b><br />
-        <b>(CGPA - 8.34%)</b>
+        <b>(CGPA - 8.39%)</b>
       </li>
       <li className="education-item">
         <span className="education-year">2021 HSC</span><br />
